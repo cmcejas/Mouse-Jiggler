@@ -1,0 +1,4 @@
+[autorun]
+ ;Open=main.py
+ ShellExecute=main.py
+ UseAutoPlay=1
